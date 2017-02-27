@@ -1,4 +1,4 @@
-ARIMA forecast model.
+ARIMA forecasting model.
 
 Takes a json file as input and outputs another json with predictions. 
 
