@@ -8,7 +8,7 @@ Sample json:
 
 {
     "fecha": 1467349200000,
-    "valor": 44503.07,
+    "valor": 44503.07
   }
 
 Returns json (fecha, prediccion, error), error_prom, accuracy
